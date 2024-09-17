@@ -1,0 +1,14 @@
+pkgbase = brother-mfc-l2800dw
+	pkgdesc = LPR and CUPS driver for the Brother MFC-L2800DW printer
+	pkgver = 4.1.0
+	pkgrel = 1
+	url = https://support.brother.com/g/b/producttop.aspx?c=as_ot&lang=en&prod=mfcl2800dw_eu_as
+	arch = i686
+	arch = x86_64
+	license = custom:brother commercial license
+	depends = cups
+	source = https://download.brother.com/welcome/dlf106049/mfcl2800dwpdrv-4.1.0-1.i386.rpm
+	md5sums = 8714528f4f61eadfa255ed7e5ce00bf6
+	depends_x86_64 = lib32-glibc
+
+pkgname = brother-mfc-l2800dw
