@@ -1,1 +1,1 @@
-# brother-mfc-l2800dw
+# Brother MFC-L2800DW printer Arch Linux driver
