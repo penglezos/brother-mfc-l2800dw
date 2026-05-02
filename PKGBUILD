@@ -2,7 +2,7 @@
 # Based on <https://aur.archlinux.org/packages/brother-mfc-l2820dw/>
 pkgname=brother-mfc-l2800dw
 pkgver=4.1.0
-pkgrel=1
+pkgrel=2
 pkgdesc="LPR and CUPS driver for the Brother MFC-L2800DW printer"
 url="https://support.brother.com/g/b/producttop.aspx?c=as_ot&lang=en&prod=mfcl2800dw_eu_as"
 arch=("i686" "x86_64")
