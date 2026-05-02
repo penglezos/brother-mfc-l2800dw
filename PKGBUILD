@@ -1,4 +1,4 @@
-# Maintainer: Panagiotis Englezos <info@penglezos.dev>
+# Maintainer: Panagiotis Englezos
 # Based on <https://aur.archlinux.org/packages/brother-mfc-l2820dw/>
 pkgname=brother-mfc-l2800dw
 pkgver=4.1.0
