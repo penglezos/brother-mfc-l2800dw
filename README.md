@@ -32,7 +32,7 @@ After installing the package:
 
 ## Driver Details
 
-- **Version:** 4.1.2
+- **Version:** 4.1.0-2
 - **Supported architectures:** i686, x86_64
 - **Dependencies:** cups, lib32-glibc (x86_64 only)
 - **Printer page:** [Brother Support](https://support.brother.com/g/b/producttop.aspx?c=as_ot&lang=en&prod=mfcl2800dw_eu_as)
