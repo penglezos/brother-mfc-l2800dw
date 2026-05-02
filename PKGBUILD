@@ -10,7 +10,7 @@ license=('custom:brother commercial license')
 depends=(cups)
 depends_x86_64=(lib32-glibc)
 source=("https://download.brother.com/welcome/dlf106049/mfcl2800dwpdrv-$pkgver-$pkgrel.i386.rpm")
-md5sums=("8714528f4f61eadfa255ed7e5ce00bf6")
+md5sums=("9a7ea4217c83b272192fd66a753d1bf1")
 
 package() {
   local -r model=MFCL2800DW
